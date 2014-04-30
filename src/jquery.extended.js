@@ -1,4 +1,21 @@
-﻿// Platform jQuery extensions.
+﻿/*!
+ * jQuery Extended
+ *
+ * http://www.darlesson.com/
+ * https://github.com/darlesson/jQuery.Extended
+ *
+ * Copyright 2014, Darlesson Oliveira
+ * Dual licensed under the MIT and GPL licenses:
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.gnu.org/licenses/gpl.html
+ *
+ * @requires jQuery
+ *
+ * Reporting bugs, comments or suggestions: http://darlesson.com/contact/
+ * Documentation and other jQuery plug-ins: http://darlesson.com/jquery/ or https://github.com/darlesson/jQuery.Extended
+ * Donations are welcome: http://darlesson.com/donate/
+ */
+
 (function ($) {
 
     $.fn.extend({
