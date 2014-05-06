@@ -23,6 +23,7 @@ Methods
 - **contentHeight**: Get the first matching element content height based on its boundaries.
 - **contentWidth**: Get the first matching element content width based on its boundaries.
 - **isSibling**: Find if an element is a sibling.
+- **outerHTML**: Returns the outerHTML for the first element matched, replaces the all elements matched by another returning the element in the chain, or allow value as Function to let the developer to decide what to do with every element in the object.
 - **reverse**: Revert the jQuery items order.
 
 License
