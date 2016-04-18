@@ -3,11 +3,6 @@ jQuery Extended
 
 jquery.extended.js add some unique plugins to jQuery for specific needs that are not provided by jQuery, such as to get the content dimensions of a container not knowing how many Nodes are in there and how they are distributed (inline or block).
 
-Issues, Suggestions or Contributions
---------------------------------------
-
-Please [contact me](http://darlesson.com/contact/) if you would like to collaborate, report issues or just suggest new features or changes.
-
 Methods
 --------------------------------------
 
